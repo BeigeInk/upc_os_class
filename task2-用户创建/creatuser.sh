@@ -6,7 +6,7 @@ do
 	j=1
 	while [ $j -le $2 ]
 	do
- 		if [ $j -le 10 ]
+ 		if [ $j -le 9 ]
 		then
   			USERNAME=class${i}stu0${j}
 		else
